@@ -22,4 +22,4 @@ Remote Junior/Mid Full Stack positions (LATAM, US, EU)
 
 ## Contact
 
-jp.oliveira.f.silva@gmail.com | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-89a241280/)   
+jp.oliveira.f.silva@gmail.com | [LinkedIn](https://www.linkedin.com/in/jpofs/)   
