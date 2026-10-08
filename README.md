@@ -1,16 +1,25 @@
-## Hi there 👋
+# João Pedro Silva
 
-<!--
-**pdrobull/pdrobull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer | AI Automation
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Diario Latino** (diariolatino.com.br) — Fully autonomous AI-powered news platform covering Latin America. I built and operate the entire pipeline.
+- **Hefezzia** (hefezzia.com.br) — AI-powered automated client onboarding & project management system. I built and operate the entire platform.
+
+## Research
+
+- Boston College (USA) — Intelligent Transportation Systems, autonomous vehicles
+- UNSW Sydney (Australia) — Financial data automation, REIT analysis
+
+## Stack
+
+Python, Go, JavaScript, TypeScript, Next.js, Node.js, PostgreSQL, LLM APIs
+
+## Open to
+
+Remote Junior/Mid Full Stack positions (LATAM, US, EU)
+
+## Contact
+
+jp.oliveira.f.silva@gmail.com | [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-89a241280/)   
